@@ -1,4 +1,4 @@
-import UserManagementInterface from "../components/UserManagementInterface";
+import UserManagementInterface from "../Components/UserManagementInterface";
 import "../index.css";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
