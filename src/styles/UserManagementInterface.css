@@ -184,6 +184,10 @@
 .modal button:hover {
   background-color: #45a049;
 }
+.footer {
+  text-align: center;
+  padding: 10px;
+}
 
 /* Media Queries */
 @media only screen and (max-width: 600px) {
